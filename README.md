@@ -1,5 +1,7 @@
 # asc2log
 
+Added some useful options as '-t' for fixing time origin, '-N' for filtering out some CANFD frames or '-f' for selecting a specific canif 
+
 ``` 
 asc2log - convert ASC logfile to compact CAN frame logfile.
 Usage: asc2log [-v][-t]
